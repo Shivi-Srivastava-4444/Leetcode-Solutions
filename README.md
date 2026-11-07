@@ -1,1 +1,1 @@
-This is a repository of all the Leetcode questions I am solving.
+A repository of all the Leetcode questions I am solving.
