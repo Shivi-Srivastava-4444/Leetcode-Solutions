@@ -8,7 +8,7 @@ public:
             while (root) {
                 st.push(root);
                 root = root->left;
-            }
+            } 
 
             root = st.top();
             st.pop();
