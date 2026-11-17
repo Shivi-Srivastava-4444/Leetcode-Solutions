@@ -5,6 +5,7 @@ A repository of all the Leetcode questions I am solving.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shivi-Srivastava-4444/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/Shivi-Srivastava-4444/Leetcode-Solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
 ## String
 |  |
@@ -42,4 +43,12 @@ A repository of all the Leetcode questions I am solving.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shivi-Srivastava-4444/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Shivi-Srivastava-4444/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Shivi-Srivastava-4444/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
