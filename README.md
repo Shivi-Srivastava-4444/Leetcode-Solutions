@@ -55,4 +55,5 @@ A repository of all the Leetcode questions I am solving.
 |  |
 | ------- |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Shivi-Srivastava-4444/Leetcode-Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1148-article-views-i](https://github.com/Shivi-Srivastava-4444/Leetcode-Solutions/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
