@@ -51,4 +51,8 @@ A repository of all the Leetcode questions I am solving.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shivi-Srivastava-4444/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+## Database
+|  |
+| ------- |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Shivi-Srivastava-4444/Leetcode-Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 <!---LeetCode Topics End-->
