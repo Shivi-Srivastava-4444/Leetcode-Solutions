@@ -34,6 +34,7 @@ A repository of all the Leetcode questions I am solving.
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shivi-Srivastava-4444/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Shivi-Srivastava-4444/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 ## Divide and Conquer
 |  |
@@ -56,4 +57,8 @@ A repository of all the Leetcode questions I am solving.
 | ------- |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Shivi-Srivastava-4444/Leetcode-Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/Shivi-Srivastava-4444/Leetcode-Solutions/tree/master/1148-article-views-i) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shivi-Srivastava-4444/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
