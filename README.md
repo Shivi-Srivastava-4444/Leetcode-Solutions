@@ -35,6 +35,7 @@ A repository of all the Leetcode questions I am solving.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivi-Srivastava-4444/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivi-Srivastava-4444/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Shivi-Srivastava-4444/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 ## Divide and Conquer
 |  |
@@ -61,4 +62,5 @@ A repository of all the Leetcode questions I am solving.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivi-Srivastava-4444/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivi-Srivastava-4444/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
